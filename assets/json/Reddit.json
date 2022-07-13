@@ -1,0 +1,41 @@
+[
+    {
+        "imgId":1,
+        "Id":1,
+        "ImageUrl":"https://ca-times.brightspotcdn.com/dims4/default/d8eb372/2147483647/strip/true/crop/2048x1190+0+346/resize/840x488!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fed%2F63%2F4d401c6846b495647692f984ac57%2Fdodgers1.png",
+        "Title":"Breaking: Dodger Stadium Workers Vote ",
+        "Subtitle":"[Shaikin] Dodger Stadium concession workers threaten to strike All-Star Game",
+        "imgIcon":"https://a.thumbs.redditmedia.com/ctpsfO1kRuLsbiuKBCUlmAi1EKSbKhLup5EkvDA1lt4.png",
+        "More":"r/baseball and more"
+    },
+    {
+        "imgId":2,
+        "Id":2,
+        "ImageUrl":"https://i.insider.com/62bc872ff921d3001803e7af?width=1000&format=jpeg&auto=webp",
+        "Title":"Amazon collaborating with Fred Hutch on Cancer Research",
+        "Subtitle":"Amazon is quietly developing cancer vaccines in partnership with Fred Hutchinson and recruiting patients for a new clinical trial",
+        "imgIcon":"https://b.thumbs.redditmedia.com/J_fCwTYJkoM-way-eaOHv8AOHoF_jNXNqOvPrQ7bINY.png",
+        "More":"r/technology and more"
+    },
+    {
+        "imgId":3,
+        "Id":3,
+        "ImageUrl":"https://cms.nhl.bamgrid.com/images/photos/334246728/5742x3828/cut.jpg",
+        "Title":"Matt Murray",
+        "Subtitle":"[NHL.com] Maple Leafs Acquire Goaltender Matt Murray In Trade With Ottawa",
+        "imgIcon":"https://styles.redditmedia.com/t5_2qiel/styles/communityIcon_r712jfvgcmk81.jpg?width=256&s=bc5a415e21f513731b0a8df83df06fd01308867c",
+        "More":"r/Hockey and more"
+    },
+    {
+        "imgId":4,
+        "Id":4,
+        "ImageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfERZ9wWQVC_vM8YM8w1YcWRw40BrFH-fsw&usqp=CAU",
+        "Title":"Euro-Dollar Partiy",
+        "Subtitle":"The euro and the dollar are a penny away from parity for the first time in 20 years",
+        "imgIcon":"https://styles.redditmedia.com/t5_2qh4j/styles/communityIcon_jxbrkfsppv481.png?width=256&s=d1a5b738aab24848c999cc32bf6ec5b628f66da4",
+        "More":"r/europe and more"
+    }
+
+    
+
+]
